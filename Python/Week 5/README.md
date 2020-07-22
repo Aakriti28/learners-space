@@ -17,7 +17,7 @@ Hence, in Python, a file operation takes place in the following order:
 2. Read or write (perform operation)
 3. Close the file
 
-Head over to this [Notebook](./Week5-1.ipynb) to learn about Python functions for fucntions for file handling.
+Head over to this [Notebook](./File_Handling/Week5-1.ipynb) to learn about Python functions for fucntions for file handling.
 
 To read more about File Handling refer [this](https://www.geeksforgeeks.org/file-handling-python/)
 
@@ -38,6 +38,8 @@ NumPy arrays are stored at one continuous place in memory unlike lists, so proce
 
 Head on to this [link](https://www.edureka.co/blog/python-numpy-tutorial/) for a brief explanation of numpy methods. Another reference for those aready a bit familiar and looking for a quick recap is [here](https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db).
 
+<hr>
+
 ## Use of Pandas
 
 Pandas is an open-source library that is made mainly for working with relational or labeled data both easily and intuitively. It provides various data structures and operations for manipulating numerical data and time series. This library is built on the top of the NumPy library. Pandas is fast and it has high-performance & productivity for users.
@@ -54,6 +56,8 @@ Pandas is an open-source library that is made mainly for working with relational
 
 Head on to this [link](https://www.edureka.co/blog/python-pandas-tutorial/) for an overview of the library. If you are looking for quick recap just look at the video included in the previous link. Another reference for a more comprehensive overview is provided [here](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html).
 
+<hr>
+
 ## Use of SciPy
 
 SciPy is a collection of mathematical algorithms and convenience functions built on the NumPy extension of Python. It adds significant power to the interactive Python session by providing the user with high-level commands and classes for manipulating and visualizing data. With SciPy, an interactive Python session becomes a data-processing and system-prototyping environment rivaling systems, such as MATLAB, IDL, Octave, R-Lab, and SciLab.
@@ -62,6 +66,8 @@ The additional benefit of basing SciPy on Python is that this also makes a power
 
 Head on to this [link](https://www.edureka.co/blog/scipy-tutorial/) for an introduction to SciPy. Another reference for a more comprehensive overview is provided [here](https://www.tutorialspoint.com/scipy/scipy_quick_guide.htm). It includes the implementations of the varied subpackages.
 
+<hr>
+
 ## Use of Matplotlib
 
 Matplotlib is one of the most popular Python packages used for data visualization. It is a cross-platform library for making 2D plots from data in arrays. Matplotlib is written in Python and makes use of NumPy, the numerical mathematics extension of Python. It provides an object-oriented API that helps in embedding plots in applications using Python GUI toolkits such as PyQt, WxPythonotTkinter. It can be used in Python and IPython shells, Jupyter notebook and web application servers also.
@@ -69,6 +75,8 @@ Matplotlib is one of the most popular Python packages used for data visualizatio
 Matplotlib has a procedural interface named the Pylab, which is designed to resemble MATLAB, a proprietary programming language developed by MathWorks. Matplotlib along with NumPy can be considered as the open source equivalent of MATLAB.
 
 Head on to this [link](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39) for an introduction to data visualisation with matplotlib in python. Another reference for a more quick recap is provided [here](https://towardsdatascience.com/introduction-to-matplotlib-in-python-5f5a9919991f).
+
+<hr>
 
 
 # GUI development in Python
@@ -97,4 +105,17 @@ Head over to this [tutorial](https://www.geeksforgeeks.org/python-tkinter-tutori
 
 For those prefering video tutorials [here](https://www.youtube.com/watch?v=VMP1oQOxfM0) is a good source to refer to. It is recommended to follow the video along with hands-on 
 code writing and testing.
+
+<hr>
+
+## Assignment Week 5 
+You can find this week's assignment [here](./Assignment5.md)
+
+If you get stuck in any of the above questions, feel free to post them in the [Telegram](https://t.me/joinchat/OEr2Tk_ieMMmwihkBQVjFw) group. Additionally, you can also search for the problems online. Another aspect to becoming a good programmer is learning how to debug your code! It is very common to encounter error along the way of programming and in that case, try reading the error and understanding the reason behind it. More often than not, you may not be able to figure out the cause of the error yourself. So, in that case, copy the error message and google it! You would be surprised how common such practices are and there are many forums where people may have already asked similar questions and have got solutions too! Stack Overflow is one such question and answer site for professional and enthusiast programmers. 
+
+For codechef questions, you can also search for the problems online with their name and problem code and most of the times you will easily find a solution for it. 
+
+Congratualtions! You have successfully completed Week 5 of Python! Keep up the enthusiasm! 
+
+<br>See you in Week 6!
 
